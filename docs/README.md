@@ -10,4 +10,3 @@ This folder stores all images, diagrams, and other media used in the portfolio.
 ## Notes
 - Keep filenames simple (lowercase, no spaces).
 - Reference images in markdown like this:
-  ```markdown
