@@ -1,5 +1,7 @@
 # Work Experience
 
+---
+
 ## AI Engineer   
 **SOCO Engineers GmBH**  
 *Multan, Pakistan*  
