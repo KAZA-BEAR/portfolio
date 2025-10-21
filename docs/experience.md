@@ -1,22 +1,25 @@
+# Work Experience
+
+## AI Engineer   
+**SOCO Engineers GmBH**  
+*Multan, Pakistan*  
+
+Aug 2024 – Dec 2024  
+
+  
+- Built automation scripts for simulation tools using Python, C++ and bash and achieved results quicker.  
+- Implemented Machine Learning Algorithms to processing pipelines, improving test results by 15%.  
+- Worked in cross-functional teams for documentation and version control.  
+
 ---
-[🏠 Home](README.md) | [🚀 Projects](projects.md) | [💼 Experience](experience.md) | [🎓 Education](education.md)
----
 
-# 💼 Work Experience
+## Trainee Engineer  
+*Faculty of Aerial Research and Integration Systems*  
+*Rawalpindi/Islamabad, Pakistan*  
 
-## TechCorp Inc. — *Software Engineer*
-📅 Jan 2022 – Present  
+Nov 2023 – July 2024  
 
-**Highlights:**
-- Built scalable microservices handling 1M+ requests/day
-- Mentored junior developers
-- Deployed CI/CD pipelines with GitHub Actions
----
 
-## DataWorks Ltd. — *Backend Developer*
-📅 May 2020 – Dec 2021  
-
-**Highlights:**
-- Developed analytics dashboard with React & D3.js
-- Improved system performance by 30%
-- Integrated data pipelines for real-time insights
+- Modelled Systems in MATLAB to create Feedback Systems for flight simulations.  
+- Calibrated electronics and sensors, and assembled mechanical frames for outdoor flights.  
+- Documented and recorded test results for successful and failed tests.  
