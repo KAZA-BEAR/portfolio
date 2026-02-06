@@ -3,7 +3,7 @@
 ---
 
 ## AI Engineer   
-**SOCO Engineers GmBH**  
+*SOCO Engineers GmBH*  
 *Multan, Pakistan*  
 
 Aug 2024 – Dec 2024  
