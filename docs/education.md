@@ -1,3 +1,9 @@
+---
+title: Education
+description: Gives Education Background
+icon: material/book-education
+---
+
 # Education
 
 ---

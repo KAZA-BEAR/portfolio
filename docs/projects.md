@@ -1,4 +1,12 @@
+---
+title: Projects
+description: Gives Information on Past Projects
+icon: material/toolbox
+---
+
 # Projects
+
+---
 
 ## Project 1: Smart Task Manager
 ![Screenshot](assets/project1.png)

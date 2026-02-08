@@ -1,3 +1,9 @@
+---
+title: Work Experience
+description: Gives Past Experience
+icon: material/text-box
+---
+
 # Work Experience
 
 ---
