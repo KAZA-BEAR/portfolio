@@ -1,11 +1,8 @@
 site_name: My Profile
 site_url: https://hamza.github.io
 
-
 theme: 
   name: material
-  
-  logo: assets/profile.png
   
   palette: 
     # Palette toggle for light mode
@@ -26,7 +23,9 @@ theme:
         icon: material/eye-outline
         name: Switch to light mode
     
-  font: false
+  font: 
+    text: Roboto
+    code: Roboto Mono
   language: en
 
   features:
@@ -36,17 +35,18 @@ theme:
     - navigation.tabs.sticky
     - navigation.prune
     - navigation.top
-    - toc.integrate
 
 markdown_extensions:
-  - toc:
-      permalink: true
-
+  - def_list
+  - tables
   - pymdownx.highlight
   - pymdownx.superfences
   - attr_list
   - md_in_html
   - pymdownx.blocks.caption
+  - toc:
+      permalink: true
+      title: On this page
 
 extra:
   consent:
