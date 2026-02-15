@@ -25,5 +25,5 @@ Quick Overview of my skills are as such:
 
 # Links
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://www.linkedin.com/in/yourusername
+- GitHub: https://github.com/KAZA-BEAR
+- LinkedIn: https://www.linkedin.com/in/hamzakjq/

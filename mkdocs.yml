@@ -48,6 +48,9 @@ markdown_extensions:
       permalink: true
       title: On this page
 
+extra_css:
+  - stylesheets/extra.css
+
 extra:
   consent:
     title: Cookie consent
