@@ -1,26 +1,32 @@
-# Robotics Projects
+---
+title: Robotics
+description: Projects focussing on Robotics
+---
+
+# Robotics
 
 ---
 
-## Prosthetic Hand using EMG
+## Functional Prosthetic Hand Assembly
 
-`Robotics` `Embedded Systems` `Bio-Signals` `Hardware`
+`Control System` `Signal Processing` `Tendon-driven Actuators` `Additive Manufacturing`
 
-**Tech Stack:** Arduino, EMG Sensor  
+**Tech Stack:** EMG Sensor, Amplifier, Microcontroller, Motor Driver PCB , Stepper Motors  
 
-A bio-inspired prosthetic hand controlled via EMG muscle signals.
+A bio-inspired 3D printed prosthetic hand controlled via EMG muscle signals.
 
 **Key Features:**  
 - EMG acquisition and filtering  
 - Motor control system  
 - Assistive robotics design  
+
 ---
 
-## 6 DOF Robotic Arm
+## 6 DOF Robotic Arm Assembly
 
-`Robotics` `Control Systems` `Automation`
+`Control System` `Automation` `Digital Twin`
 
-**Tech Stack:** LabVIEW, PCB  
+**Tech Stack:** LabVIEW, Microcontroller, Motor Driver PCB  
 
 A robotic manipulator capable of precise 3D motion control.
 
@@ -28,13 +34,14 @@ A robotic manipulator capable of precise 3D motion control.
 - 6-axis movement  
 - Custom PCB integration  
 - Real-time control  
+
 ---
 
 ## Maze Solving Robot
 
-`Robotics` `Algorithms` `Autonomous Systems`
+`Wall Follower & Pledge Algorithm` `Autonomous System` `3D Modelling`
 
-**Tech Stack:** Arduino  
+**Tech Stack:** Sensors, Microcontroller, Motor Driver PCB, DC Motors  
 
 An autonomous robot capable of finding shortest path in a maze.
 

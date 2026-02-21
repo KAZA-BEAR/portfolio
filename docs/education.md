@@ -8,17 +8,16 @@ icon: material/book-education
 
 ---
 
-## M.Eng. Mechatronics and Cyber Physical Systems  
+## M.Eng. Mechatronics and Cyber Physical Systems(Full-Time)  
 *Technische Hochschule Deggendorf*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mar 2024 – Present  
 *Germany*  
 <br>
 Focus on:
 
-- **Power Engineering**:&nbsp;*Electric Machines* / *Instrumentation* / *Power Utilization* / *Power Electronics*<br>
-- **Electronics Engineering**:&nbsp;*Linear Circuit Analysis* / *Digital Logic Design* / *Microprocessor System* &nbsp;&nbsp;/&nbsp;*Digital Logic Design*<br>
-- **Control Systems Engineering**:&nbsp;*Digital Signal Processing* / *Digital Image Processing* / *Signals & &nbsp;Systems* / *Probability*<br>
-- **Management / Economics**:&nbsp;*Operations Mgt.* / *Engr. Economics* / *Total Quality Mgt.* /&nbsp; *Occupational&nbsp;Health & Safety*<br>
-
+- *Additive Manufacturing Technologies*<br>
+- *Robotics & Autonomous Systems*<br>
+- *AR/VR for Human Interface & Industrial Engineering*<br>
+- *Functional Safety & Cyber-Physical Systems*<br>
 
 ---
 
@@ -32,5 +31,3 @@ Focus on:
 - **Electronics Engineering**:&nbsp;*Linear Circuit Analysis* / *Digital Logic Design* / *Microprocessor System* &nbsp;&nbsp;/&nbsp;*Digital Logic Design*<br>
 - **Control Systems Engineering**:&nbsp;*Digital Signal Processing* / *Digital Image Processing* / *Signals & &nbsp;Systems* / *Probability*<br>
 - **Management / Economics**:&nbsp;*Operations Mgt.* / *Engr. Economics* / *Total Quality Mgt.* /&nbsp; *Occupational&nbsp;Health & Safety*<br>
-
----

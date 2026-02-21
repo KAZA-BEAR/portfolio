@@ -1,12 +1,17 @@
-# AI & Machine Learning Projects
+---
+title: Artificial Intelligence & Machine Learning
+description: Projects focussing on Artificial Intelligence & Machine Learning
+---
+
+# AI & ML
 
 ---
 
 ## Face Detection System
 
-`Artificial Intelligence` `Machine Learning` `Computer Vision` `Python`
+`Computer Vision` `Reinforcement Learning`
 
-**Tech Stack:** Python, OpenCV, NumPy  
+**Tech Stack:** Camera, Python ,Detection Algorithm, Recognition Algorithm  
 
 A computer vision system using a pre-trained ML model to detect and recognize faces in real time.
 
@@ -14,13 +19,14 @@ A computer vision system using a pre-trained ML model to detect and recognize fa
 - Real-time face detection  
 - Feature extraction  
 - Face recognition database  
+
 ---
 
 ## Gender Recognition System
 
-`Artificial Intelligence` `Machine Learning` `Signal Processing` `Audio Processing`
+`Audio Processing` `Noise Filtering` `Feature Extraction`
 
-**Tech Stack:** MATLAB  
+**Tech Stack:** Microphone, MATLAB Script, Noise filter and Feature Extraction  
 
 Voice-based gender classification using audio feature extraction and supervised learning techniques.
 

@@ -1,12 +1,17 @@
-# Embedded Systems & Hardware Projects
+---
+title: Embedded Systems
+description: Projects focussing on Embedded System
+---
+
+# Embedded Systems
 
 ---
 
 ## 2D Plotter Machine
 
-`Embedded Systems` `Mechatronics` `Hardware`
+`Control System` `G-Code Generation` `Mix Signal System`
 
-**Tech Stack:** Arduino, Stepper Motors  
+**Tech Stack:** Vector Drawing/File, Microcontroller, Motor Drivers , Stepper Motors  
 
 A CNC-style plotting machine for vector graphics.
 
@@ -14,17 +19,18 @@ A CNC-style plotting machine for vector graphics.
 - Precision motor control  
 - Vector plotting  
 - Foldable mechanical frame  
+
 ---
 
 ## Bluetooth Controlled RC Car
 
-`Embedded Systems` `IoT` `Wireless Communication`
+`IoT` `Wireless Communication`  `Pulse Width Modulation*(PWM) Motor Control`
 
-**Tech Stack:** Arduino, HC-05  
+**Tech Stack:** Bluetooth Command, Microcontroller, Motor Drivers, DC Motors  
 
 A smartphone-controlled RC car using Bluetooth communication.
 
 **Key Features:**  
-- Bluetooth control  
-- PWM motor regulation  
-- Wireless embedded system  
+- Bluetooth control from any smartphone  
+- Speed and direction regulation  
+- Wireless system  
