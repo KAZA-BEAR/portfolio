@@ -8,7 +8,7 @@ icon: material/account-tie
 
 ![Profile Picture](assets/profile.jpg){align=right}
 
-I am a **Mechatronics Engineer**. I spend my time in code scripts or parts documentations. Always excited for a new challenge.
+I am a **Robotics Engineer**. I spend my time in code scripts or parts documentations. Always excited for a new challenge.
 
 ---
 
@@ -16,7 +16,7 @@ Quick Overview of my skills are as such:
 
 | Groups                     | Tools                                         |
 | :------------------------- | :-------------------------------------------- |
-| Programming Languages      | C++, Python, Verilog, Linux                   |
+| Programming Languages      | C++, Python, Linux                   |
 | Robotics Frameworks        | ROS1 & 2, Gazebo, MoveIt2, Ardupilot, MavLink |
 | Computer Aided Engineering | ANSYS, FreeCAD, MATLAB, Altium, KiCAD, Docker |
 | Team Collaboration         | ZOOM, Microsoft Teams, Jira                   |
