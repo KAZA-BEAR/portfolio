@@ -10,15 +10,15 @@ icon: material/account-tie
 
 I enjoy solving multidisciplinary engineering problems involving software, electronics, and control systems, and I'm particularly interested in:
  
-• Robotics Software Engineering
- • ROS2 Development
- • Embedded Systems
- • Autonomous Robots
- • Motion Planning
- • Computer Vision
- • Sensor Integration
- • AI for Robotics
- • Mechatronic System Design
+- Robotics Software Engineering
+- ROS2 Development
+- Embedded Systems
+- Autonomous Robots
+- Motion Planning
+- Computer Vision
+- Sensor Integration
+- AI for Robotics
+- Mechatronic System Design
 
 ---
 
