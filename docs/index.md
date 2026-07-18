@@ -8,7 +8,17 @@ icon: material/account-tie
 
 ![Profile Picture](assets/profile.jpg){align=right}
 
-I am a **Robotics Engineer**. I spend my time in code scripts or parts documentations. Always excited for a new challenge.
+I enjoy solving multidisciplinary engineering problems involving software, electronics, and control systems, and I'm particularly interested in:
+ 
+• Robotics Software Engineering
+ • ROS2 Development
+ • Embedded Systems
+ • Autonomous Robots
+ • Motion Planning
+ • Computer Vision
+ • Sensor Integration
+ • AI for Robotics
+ • Mechatronic System Design
 
 ---
 
